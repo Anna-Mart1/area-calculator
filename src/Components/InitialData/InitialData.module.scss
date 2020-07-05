@@ -1,0 +1,45 @@
+.commonDataForm {
+
+
+  .commonDataForm__fullForm {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2vw;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .commonDataForm__imageDataForm {
+    text-align: center;
+    padding: 30px;
+    border: 1px solid #000;
+  }
+
+  .commonDataForm__initialDataForm {
+    text-align: center;
+    padding: 5% 10% 5% 0;
+    border: 1px solid #000;
+
+    & div {
+      display: block;
+      text-align: right;
+      margin: 5px;
+
+      input {
+        margin: 0 5px 0 5px;
+        border: 1px solid #000;
+        width: 5em;
+        text-align: center;
+      }
+      input:focus {
+       box-shadow: 0 0 3px black;
+      }
+    }
+  }
+
+  .commonDataForm__submitButton {
+    padding: 10px;
+    text-align: center;
+  }
+
+}
