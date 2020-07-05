@@ -2,7 +2,7 @@ const AREA_CALCULATED_SUCCESS = 'AREA_CALCULATED_SUCCESS';
 const SET_WORK_AREA = 'SET_WORK_AREA';
 
 let initialState = {
-    isAreaCalculated: false,
+    isAreaCalculated: true,
     bottomArea: null,
     overlapArea: null,
     slopeAreaByDepth: null,

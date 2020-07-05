@@ -3,7 +3,7 @@ import style from './InitialData.module.css';
 import {useFormik} from 'formik';
 import {calculateWorkArea} from './calculateWorkArea';
 
-export const InitialData = ({}) => {
+export const InitialData = ({setWorkArea, areaCalculatedSuccess}) => {
     const formik = useFormik({
         initialValues: {
             bottomLength: '',
@@ -19,7 +19,8 @@ export const InitialData = ({}) => {
             slopeRatioSelect: '',
         },
         onSubmit: values => {
-            calculateWorkArea(values)
+            setWorkArea(calculateWorkArea(values));
+            areaCalculatedSuccess();
         },
     });
 

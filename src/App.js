@@ -1,16 +1,16 @@
 import React from 'react';
 import './App.css';
 import {Header} from './Components/Header/Header';
-import {InitialData} from './Components/InitialData/InitialData';
 import {MaterialCalculation} from './Components/MaterialCalculation/MaterialCalculation';
-import {AreaCalculation} from './Components/AreaCalculation/AreaCalculation';
+import {InitialDataContainer} from './Components/InitialData/InitialDataContainer';
+import {AreaCalculationContainer} from './Components/AreaCalculation/AreaCalculationContainer';
 
 const App = () => {
     return (
         <>
             <Header/>
-            <InitialData/>
-            <AreaCalculation/>
+            <InitialDataContainer/>
+            <AreaCalculationContainer/>
             <MaterialCalculation/>
         </>
     );

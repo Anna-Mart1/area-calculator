@@ -1,8 +1,8 @@
 import React from 'react';
 import style from './AreaCalculation.module.css';
 
-export const AreaCalculation = ({}) => {
+export const AreaCalculation = ({isAreaCalculated}) => {
     return (<div className={style.areaCalcContainer}>
-        AreaCalculation
+        {isAreaCalculated && 'AreaCalculation'}
     </div>)
 }
