@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08178036ab6f7f52d328f878cd1f09e6",
+    "revision": "7d8f4e109037b96725be42a5bd5cdafa",
     "url": "/area-calculator/index.html"
   },
   {
-    "revision": "d14471a81aa88a27b9d6",
+    "revision": "f8cf741f791f9b8ead04",
     "url": "/area-calculator/static/css/main.38c74b7d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/area-calculator/static/js/2.276d7a91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d14471a81aa88a27b9d6",
-    "url": "/area-calculator/static/js/main.80488c20.chunk.js"
+    "revision": "f8cf741f791f9b8ead04",
+    "url": "/area-calculator/static/js/main.6e450252.chunk.js"
   },
   {
     "revision": "ceb4962e8df4b6d14e83",

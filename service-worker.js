@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/area-calculator/precache-manifest.2d86007f261d6f150d594dd446ea3d6e.js"
+  "/area-calculator/precache-manifest.6a2dc0b89aef90250b83602f98672781.js"
 );
 
 self.addEventListener('message', (event) => {
