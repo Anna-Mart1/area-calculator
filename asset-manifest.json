@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/area-calculator/static/css/main.38c74b7d.chunk.css",
-    "main.js": "/area-calculator/static/js/main.6e450252.chunk.js",
-    "main.js.map": "/area-calculator/static/js/main.6e450252.chunk.js.map",
+    "main.css": "/area-calculator/static/css/main.758a4996.chunk.css",
+    "main.js": "/area-calculator/static/js/main.8aece3e2.chunk.js",
+    "main.js.map": "/area-calculator/static/js/main.8aece3e2.chunk.js.map",
     "runtime-main.js": "/area-calculator/static/js/runtime-main.8190a10d.js",
     "runtime-main.js.map": "/area-calculator/static/js/runtime-main.8190a10d.js.map",
-    "static/js/2.276d7a91.chunk.js": "/area-calculator/static/js/2.276d7a91.chunk.js",
-    "static/js/2.276d7a91.chunk.js.map": "/area-calculator/static/js/2.276d7a91.chunk.js.map",
+    "static/js/2.3a019621.chunk.js": "/area-calculator/static/js/2.3a019621.chunk.js",
+    "static/js/2.3a019621.chunk.js.map": "/area-calculator/static/js/2.3a019621.chunk.js.map",
     "index.html": "/area-calculator/index.html",
-    "precache-manifest.6a2dc0b89aef90250b83602f98672781.js": "/area-calculator/precache-manifest.6a2dc0b89aef90250b83602f98672781.js",
+    "precache-manifest.d74a7c20a56c712ccd63b9d690b3efc1.js": "/area-calculator/precache-manifest.d74a7c20a56c712ccd63b9d690b3efc1.js",
     "service-worker.js": "/area-calculator/service-worker.js",
-    "static/css/main.38c74b7d.chunk.css.map": "/area-calculator/static/css/main.38c74b7d.chunk.css.map",
-    "static/js/2.276d7a91.chunk.js.LICENSE.txt": "/area-calculator/static/js/2.276d7a91.chunk.js.LICENSE.txt"
+    "static/css/main.758a4996.chunk.css.map": "/area-calculator/static/css/main.758a4996.chunk.css.map",
+    "static/js/2.3a019621.chunk.js.LICENSE.txt": "/area-calculator/static/js/2.3a019621.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8190a10d.js",
-    "static/js/2.276d7a91.chunk.js",
-    "static/css/main.38c74b7d.chunk.css",
-    "static/js/main.6e450252.chunk.js"
+    "static/js/2.3a019621.chunk.js",
+    "static/css/main.758a4996.chunk.css",
+    "static/js/main.8aece3e2.chunk.js"
   ]
 }
